@@ -8,9 +8,9 @@
 
 # Table of Contents
 
-1. [markdown](markdown)
-2. [growth](growth)
-3. [html](html)
+1. [markdown] (markdown.md)
+2. [growth] (growth.md)
+3. [html] (html.md)
 4. 
 
 
