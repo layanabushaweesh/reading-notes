@@ -8,11 +8,10 @@
 
 # Table of Contents
 
-1. [markdown] (markdown)
-2. [growth] (growth)
-3. [html] (html)
-4. 
-
+# Table of Contents
+1. [html](html)
+2. [markdown](markdown)
+3. [growth](growth)
 
 
 
