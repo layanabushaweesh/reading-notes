@@ -6,13 +6,14 @@
 
 * *am an ambitious, committed and hardworking person* *
 
-# Table of Contents
+
 
 # Table of Contents
 1. [html](html)
 2. [markdown](markdown)
 3. [growth](growth)
 4. [js](js)
+5. [operatorandlogic] (operator and logic)
 
 
 
