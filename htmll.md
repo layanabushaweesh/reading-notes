@@ -11,8 +11,7 @@
    
 
 ### site maps allow you to orginize the structure , wireframes allow you to orginize the information, its importnt to understand who is your target audiennce and what the information they want and the design id about communication
-
-
+#
 
 
 
