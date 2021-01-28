@@ -13,7 +13,7 @@
 2. [markdown](markdown)
 3. [growth](growth)
 4. [js](js)
-5. [operatorandlogic] (operator and logic)
+5. [operatorandlogic](operator and logic)
 
 
 
