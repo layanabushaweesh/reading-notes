@@ -14,6 +14,8 @@
 3. [growth](growth)
 4. [js](js)
 5. [operatorandlogic](operator and logic)
+6. [css](css)
+7.  [functions](functions)
 
 
 
