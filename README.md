@@ -1,8 +1,8 @@
 # reading-notes
-# Code 102 Reading Notes
+## Code 102 Reading Notes
 ***my name is layan abu shaweesh***
 ~~Iam an mechatronics engineer~~
-**am an ambitious, committed and hardworking person* *
+**am an ambitious, committed and hardworking person**
 
 
 > Table of Contents
@@ -14,7 +14,7 @@
 6. [css](css)
 7.  [functions](functions)
 
-# Code 201 Reading Notes
+## Code 201 Reading Notes
 
 > Table of contents
 1. []()
