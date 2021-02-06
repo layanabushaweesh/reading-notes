@@ -2,7 +2,7 @@
 ## Code 102 Reading Notes
 ***my name is layan abu shaweesh***
 ~~Iam an mechatronics engineer~~
-**am an ambitious, committed and hardworking person**
+* am an ambitious, committed and hardworking person
 
 
 > Table of Contents
