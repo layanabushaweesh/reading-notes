@@ -18,7 +18,7 @@
 ## Code 201 Reading Notes
 
 > Table of contents
-1. []()
+1. [HTML & JavaScript](class-01)
 2. []()
 3. []()
 4. []()
