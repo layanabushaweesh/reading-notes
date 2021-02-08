@@ -38,10 +38,10 @@ within that function. This is known as the variable's scope.
 
 # pair programming work
 > Why pair program?
-* 1. Greater efficiency
-* 2. Engaged collaboration
-* 3. Learning from fellow students
-* 4. Social skills
-* 5. Job interview readiness
+* Greater efficiency
+*  Engaged collaboration
+*  Learning from fellow students
+*  Social skills
+*  Job interview readiness
 
 
