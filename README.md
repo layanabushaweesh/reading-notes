@@ -20,7 +20,7 @@
 > Table of contents
 1. [HTML & JavaScript](class-01)
 2. [class-02](class-02)
-3. []()
+3. [class-03](class-03)
 4. []()
 5. []()
 6. []()
