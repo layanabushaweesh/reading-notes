@@ -22,7 +22,7 @@
 2. [class-02](class-02)
 3. [class-03](class-03)
 4. [class-04](class-04)
-5. [class-05](class-05)
+5. [class5](class5)
 6. []()
 7. []()
 8. []()
