@@ -24,7 +24,7 @@
 4. [class-04](class-04)
 5. [class5](class5)
 6. [class6](class6)
-7. []()
+7. [class7](class7)
 8. []()
 9. []()
 10. []()
