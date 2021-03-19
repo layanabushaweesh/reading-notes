@@ -4,7 +4,10 @@
 ~~Iam an mechatronics engineer~~
 * am an ambitious, committed and hardworking person
 
-## Code 102 Reading Notes
+**this website to summarize my note for each class**
+
+## Code 102 - Intro to Software Development
+
 
 > Table of Contents
 1. [html](html)
@@ -15,7 +18,7 @@
 6. [css](css)
 7.  [functions](functions)
 
-## Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 > Table of contents
 1. [HTML & JavaScript](class-01)
@@ -35,6 +38,17 @@
 15. [class15](class15)
 
 
+
+## Code 301 - Intermediate Software Development
+> Table of contents
+
+
+
+
+
+
+## Code 401 - Advanced Software Development
+> Table of contents
 
 
 
