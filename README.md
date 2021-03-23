@@ -43,7 +43,7 @@
 > Table of contents
 1. [first class](first.md)
 2. [second class](second.md)
-
+3. [third class](third.md)
 
 
 
