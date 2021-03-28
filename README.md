@@ -46,7 +46,7 @@
 3. [third class](third.md)
 4. [fourth class](fourth.md)
 5. [fifth class](fifth.md)
-
+6. [six class](six.md)
 
 ## Code 401 - Advanced Software Development
 > Table of contents
