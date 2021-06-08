@@ -64,7 +64,7 @@
 > Table of contents
 1. [first class](1.md)
 2. [second class](2.md)
-
+3. [third class](3.md)
 
 
 
