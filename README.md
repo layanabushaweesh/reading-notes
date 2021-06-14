@@ -68,7 +68,7 @@
 4. [classes,Objects thinking Recursively](4.md)
 5. [Linked Lists](5.md)
 6. [Random Module & Risk Analysis](6.md)
-
+7. [Python Scope & the LEGB Rule](7.md)
 
 
 #### https://github.com/layanabushaweesh ####
