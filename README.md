@@ -70,7 +70,7 @@
 6. [Random Module & Risk Analysis](6.md)
 7. [Python Scope & the LEGB Rule](7.md)
 8. [List Comprehensions in Python](8.md)
-
+9. [Dunder Methods & Statistics Probability](9.md)
 
 #### https://github.com/layanabushaweesh ####
 
