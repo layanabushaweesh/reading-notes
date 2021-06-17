@@ -58,7 +58,8 @@
 15. [fifteen class](15.md)
 
 
-
+  
+ 
 
 ## Code 401 - Advanced Software Development
 > Table of contents
@@ -71,6 +72,7 @@
 7. [Python Scope & the LEGB Rule](7.md)
 8. [List Comprehensions in Python](8.md)
 9. [Dunder Methods & Statistics Probability](9.md)
+10. [Stacks and Queues](10.md)
 
 #### https://github.com/layanabushaweesh ####
 
