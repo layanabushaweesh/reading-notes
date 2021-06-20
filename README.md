@@ -73,6 +73,7 @@
 8. [List Comprehensions in Python](8.md)
 9. [Dunder Methods & Statistics Probability](9.md)
 10. [Stacks and Queues](10.md)
+11. [Data Analysis:JupyterLab & Numpy](11.md)
 
 #### https://github.com/layanabushaweesh ####
 
