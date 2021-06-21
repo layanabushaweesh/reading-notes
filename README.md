@@ -74,6 +74,7 @@
 9. [Dunder Methods & Statistics Probability](9.md)
 10. [Stacks and Queues](10.md)
 11. [Data Analysis:JupyterLab & Numpy](11.md)
+12. [Pandas](12.md)
 
 #### https://github.com/layanabushaweesh ####
 
