@@ -77,6 +77,7 @@
 12. [Pandas](12.md)
 13. [Regression analysis](113.md)
 14. [Data Visualization](144.md)
+15. [Trees](fifteen.md)
 
 #### https://github.com/layanabushaweesh ####
 
