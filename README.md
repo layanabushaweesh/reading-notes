@@ -78,6 +78,7 @@
 13. [Regression analysis](113.md)
 14. [Data Visualization](144.md)
 15. [Trees](fifteen.md)
+16. [Machine Learning Intro](16.md)
 
 #### https://github.com/layanabushaweesh ####
 
