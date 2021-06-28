@@ -79,6 +79,8 @@
 14. [Data Visualization](144.md)
 15. [Trees](fifteen.md)
 16. [Machine Learning Intro](16.md)
+17. [Web Scraping](17.md)
+
 
 #### https://github.com/layanabushaweesh ####
 
