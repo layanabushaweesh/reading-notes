@@ -82,6 +82,8 @@
 17. [Web Scraping](17.md)
 18. [Cryptography](18.md)
 19. [Automation](19.md)
+20. [Django](20.md)
+
 
 #### https://github.com/layanabushaweesh ####
 
