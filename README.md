@@ -84,7 +84,7 @@
 19. [Automation](19.md)
 20. [Django](20.md)
 21. [Django Models](21.md)
-
+22. [Django CRUD and Forms](22.md)
 
 #### https://github.com/layanabushaweesh ####
 
