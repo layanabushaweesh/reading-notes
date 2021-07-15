@@ -86,6 +86,7 @@
 21. [Django Models](21.md)
 22. [Django CRUD and Forms](22.md)
 23. [Django Custom User](23.md)
+24. [Hash Tables](24.md)
 
 #### https://github.com/layanabushaweesh ####
 
