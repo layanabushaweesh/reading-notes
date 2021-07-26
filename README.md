@@ -88,6 +88,7 @@
 23. [Django Custom User](23.md)
 24. [Hash Tables](24.md)
 25. [Django REST Framework & Docker](31.md)
+26. [Permissions & Postgresql](32.md)
 #### https://github.com/layanabushaweesh ####
 
 
