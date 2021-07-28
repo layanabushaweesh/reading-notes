@@ -89,6 +89,7 @@
 24. [Hash Tables](24.md)
 25. [Django REST Framework & Docker](31.md)
 26. [Permissions & Postgresql](32.md)
+27. [Authentication & Production Server](33.md)
 #### https://github.com/layanabushaweesh ####
 
 
