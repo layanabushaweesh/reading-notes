@@ -90,6 +90,7 @@
 25. [Django REST Framework & Docker](31.md)
 26. [Permissions & Postgresql](32.md)
 27. [Authentication & Production Server](33.md)
+28. [API Deployment](34.md)
 #### https://github.com/layanabushaweesh ####
 
 
