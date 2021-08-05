@@ -94,7 +94,8 @@
 29. [ DSA Review](35.md)
 30. [Graphs](36.md)
 31. [ React 1](37.md)
-31. [ React 2](38.md)
+32. [ React 2](38.md)
+33. [ React 3](39.md)
 
 
 #### https://github.com/layanabushaweesh ####
