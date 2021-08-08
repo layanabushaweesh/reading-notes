@@ -98,7 +98,7 @@
 33. [ React 3](39.md)
 34. [ React 4](40.md)
 35. [ Pythonisms ](41.md)
-
+36. [ Ethics ](42.md)
 
 #### https://github.com/layanabushaweesh ####
 
